@@ -37,4 +37,4 @@ https://www.youtube.com/watch?v=MD3QrsElOz0
 ![Preview](https://4.bp.blogspot.com/-0SaLMFVcjhM/WM6EzndalJI/AAAAAAAABtE/nBwcFo5DujQxMZjHpWcNDtZGWiZbgR85QCLcB/s1600/2017-03-19-200535_1366x768_scrot.png)
 
 ## Author
-This program was made primarily by t7hm1 (https://github.com/t7hm1) with some contributions and fixes by sadshinobi (https://github.com/baitinq).
+This program was made primarily by t7hm1 (https://github.com/t7hm1) with some contributions and fixes by baitinq (https://github.com/baitinq).
