@@ -425,7 +425,7 @@ def usage(purple='\033[35m'):
 	username =  getpass.getuser()
 	hostname = socket.gethostname()
 	__name__ = sys.argv[0]
-	__author__ = "[sp3tr3] && [sadshinobi]"
+	__author__ = "[sp3tr3] && [baitinq]"
 	__version__ = "1.2"
 
 	txt =\
