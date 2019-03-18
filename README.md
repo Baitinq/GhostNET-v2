@@ -16,9 +16,7 @@ GhostNET program that will help you be safer on the cyber network.This program w
 * runing on python3
 
 ## Installation
-* git clone https://github.com/t7hm1/GhostNET.git && sudo cp GhostNET/ghostnet /usr/bin/ghostnet
-* cp GhostNET/ghostnet.log /opt/
-* sudo chown (your user name):wheel /opt/ghostnet.log
+* git clone https://github.com/Baitinq/GhostNET-v2.git && sudo cp GhostNET/ghostnet /usr/bin/ghostnet
 * sudo chmod +x /usr/bin/ghostnet
 * sudo ghostnet
 
